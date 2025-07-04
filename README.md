@@ -30,14 +30,12 @@
 <div style="margin-right: 20px">
   <img 
     src="https://github-readme-stats.vercel.app/api?username=Edumassami&show_icons=true&theme=tokyonight"
-    width="490px"
-    height="200px"
+    width="430px"
   />
   &nbsp;&nbsp;&nbsp;
   <img 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=Edumassami&layout=compact&theme=tokyonight"
-    width="372px"
-    height="200px"
+    width="327px"
   />
 </div>
 
